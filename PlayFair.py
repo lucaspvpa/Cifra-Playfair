@@ -103,10 +103,3 @@ while(1):
         break
     else:
         print('Essá fucao não está disponível')
-
-
-# In[ ]:
-
-
-
-
