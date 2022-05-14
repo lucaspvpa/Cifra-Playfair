@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 import re
 import string
 
@@ -181,10 +175,3 @@ while(1):
         break
     else:
         print('Essá fucao não está disponível')
-
-
-# In[ ]:
-
-
-
-
