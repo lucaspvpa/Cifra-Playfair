@@ -174,4 +174,4 @@ while(1):
     elif escolha == 3:
         break
     else:
-        print('Essá fucao não está disponível')
+        print('Essá funcao não está disponível')
